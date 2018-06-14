@@ -284,8 +284,8 @@ BEGIN
 ![这里写图片描述](https://img-blog.csdn.net/2018061417154595?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3NDk5MDU5/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 #### 项目下载地址
-CSDN:
-Github:
+CSDN:https://download.csdn.net/download/m0_37499059/10479486 
+Github:https://github.com/chenxingxing6/EMDC 
 
 ---
 ### 总结
